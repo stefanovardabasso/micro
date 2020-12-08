@@ -7,3 +7,4 @@ Writing C:\wamp\www\micro\storage\cache\composer/cache/repo/https---packages.mic
 Downloading https://private-packages.microweberapi.com/packages.json
 Writing C:\wamp\www\micro\storage\cache\composer/cache/repo/https---private-packages.microweberapi.com/packages.json into cache
 Writing C:\wamp\www\micro\storage\cache\composer/cache/repo/https---private-packages.microweberapi.com/packages.json into cache
+Applying post update actions
