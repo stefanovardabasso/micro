@@ -1,0 +1,33 @@
+{
+	"name": "selfworks/recurr",
+	"description": "PHP library for working with recurrence rules",
+	"keywords": ["rrule", "recurrence", "recurring", "events", "dates"],
+	"homepage": "https://github.com/selfworks/recurr",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Shaun Simmons",
+			"email": "shaun@envysphere.com",
+			"homepage": "http://envysphere.com"
+		},
+		{
+			"name": "Bozhidar Slaveykov",
+			"email": "selfworksbg@gmail.com",
+			"homepage": ""
+		}
+	],
+	"require": {
+		"php": ">=5.6.3",
+		"doctrine/collections": "*"
+	},
+	"require-dev": {
+		"phpunit/phpunit": ">=4.5"
+	},
+	"autoload": {
+		"psr-4": {
+			"Recurr\\": "src/Recurr/",
+			"Recurr\\Test\\": "tests/"
+		}
+	}
+}
